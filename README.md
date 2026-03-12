@@ -164,7 +164,12 @@ Example ML workload included in this project:
 Fraud detection using Spark MLlib
 ```
 
-Primary model:
+Models evaluated:
+
+- Logistic Regression
+- Gradient Boosted Trees (GBT)
+
+Primary production model:
 
 ```
 fraud_model_gbt_final_v3.py
